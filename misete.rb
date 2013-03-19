@@ -2,7 +2,7 @@ require 'logger'
 require 'optparse'
 require 'ostruct'
 
-options = OpenStruct.new(:output => "Readme.md",
+options = OpenStruct.new(:output => "Output.md",
                         :title => "Output",
                         :format => "markdown")
 
