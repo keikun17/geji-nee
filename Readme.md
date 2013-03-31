@@ -15,4 +15,7 @@ Sample markdown outputs
         HEYO!
         HEY!T
 
+# Todo
+
+* Use `zparseopts`
 
